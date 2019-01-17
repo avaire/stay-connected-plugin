@@ -1,0 +1,6 @@
+name: 'StayConnected'
+main: 'com.avairebot.stayconnected.StayConnected'
+version: '1.0-SNAPSHOT'
+author: 'Alexis Tan <Senither#0001>'
+description: 'A super simple plugin that makes the bot stay connected to voice channels.'
+requires: '0.9.4'
